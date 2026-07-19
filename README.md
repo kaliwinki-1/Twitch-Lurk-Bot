@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Super Lurker - Le Bot Automatique Ultime pour Twitch</h1>
+  <h1>Twitch Lurk Bot</h1>
   <p><b>Le couteau suisse du "Lurking" : Mode Fantôme, Score IA, Radar GQL et Anti-Détection avancée.</b></p>
   
   [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
